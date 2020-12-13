@@ -1,16 +1,35 @@
-### Hi there 👋
+<h2> Hi, I'm Kathan Patel</h2>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=KathanP19&show_icons=true&theme=radical" width="380">
+<p><em>Security Enthusist and Bugbounty Hunter <br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
+ I am a Computer Engineer who is currently studying from Gujarat Technological University, who has a keen interest in Web Application Security and who enjoy doing bug bounties.
 
-<!--
-**lakmalrupasinghe/lakmalrupasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Coming to the practical implementation, I love making scripts in Bash and tools in golang to automate processes that take lots of time while pentesting web applications. On the way of doing that made me think to write blogs on the hunting Bugs so that I can share my experience with other enthusiasts
+</em></p>
 
-Here are some ideas to get you started:
+[![Twitter: KathanP19](https://img.shields.io/twitter/follow/KathanP19?style=flat-square)](https://twitter.com/KathanP19)
+[![GitHub KathanP19](https://img.shields.io/github/followers/KathanP19?label=follow%20github&style=flat-square)](https://github.com/KathanP19)
+[![Paypal KathanP19](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://www.buymeacoffee.com/kathanp19)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### More about me...
+
+```go
+package main
+
+type Me struct{
+  Pronouns string
+  Code string
+  BestAndFavoriteSkill string
+}
+
+func main() {
+  me := &Me{
+    Pronouns: "He/Him",
+    Code: "Bash and Golang",
+    BestAndFavoriteSkill: "Web Hacking :D"
+  }
+  _ = me
+}
+```
+---
