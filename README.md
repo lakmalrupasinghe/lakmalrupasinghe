@@ -1,7 +1,7 @@
 <h2> Hi, I'm Dr. Lakmal Rupasinghe</h2>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=KathanP19&show_icons=true&theme=radical" width="380">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=lakmalrupasinghe&show_icons=true&theme=radical" width="380">
 <p><em>Cyber Security, Machine Learning Enthusist and Bugbounty Hunter and <br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
- I am a Trainer, Researcher, Consultant who is based on South , who has a keen interest in Web Application Security and who enjoy doing bug bounties.
+ I am a Trainer, Researcher, Consultant who is based on South Asia , who has a keen interest in Web Application Security and who enjoy doing bug bounties.
 
 Coming to the practical implementation, I love making scripts in Bash and tools in golang to automate processes that take lots of time while pentesting web applications. On the way of doing that made me think to write blogs on the hunting Bugs so that I can share my experience with other enthusiasts
 </em></p>
